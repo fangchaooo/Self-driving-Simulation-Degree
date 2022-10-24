@@ -20,3 +20,5 @@ This repository show how to learn self-driving simulation
 ## machine learning
 
 ## game engine
+### blender study
+https://www.youtube.com/watch?v=ZnWsCD1Ir2s&list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp&index=11&t=62s
